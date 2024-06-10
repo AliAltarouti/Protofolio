@@ -1,0 +1,44 @@
+.body {
+    background-image: linear-gradient(to right, rgba(201, 198, 198, 0.444), #383939);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.left {
+    width: 100%;
+    padding: 20px;
+}
+
+.middle_line {
+    border: 1px solid #f3eea2;
+    height: 1px;
+    opacity: 0.2;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+.name {
+    color: #538fef;
+}
+
+.btn {
+    background-color: #fff;
+    border-radius: 24px;
+    border-style: none;
+    box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px, rgba(0, 0, 0, .14) 0 6px 10px 0, rgba(0, 0, 0, .12) 0 1px 18px 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: 500;
+    height: 48px;
+    text-align: center;
+    width: auto;
+    z-index: 0;
+    padding: 10px 20px;
+}
+
+.btn:hover {
+    background: #F6F9FE;
+    color: #85a9e3;
+}
